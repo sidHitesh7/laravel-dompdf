@@ -1,12 +1,12 @@
 {
-    "name": "barryvdh/laravel-dompdf",
+    "name": "sidHitesh7/laravel-dompdf",
     "description": "A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
     "authors": [
         {
-            "name": "Barry vd. Heuvel",
-            "email": "barryvdh@gmail.com"
+            "name": "Hitesh Siddhapura",
+            "email": "sidhapura.hitesh@gmail.com"
         }
     ],
     "require": {
